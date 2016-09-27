@@ -1,8 +1,7 @@
 /* 
  * File:   UART.h
  * Author: AcerV5
- *
- * Created on Ng‡y 04 th·ng 4 n?m 2016, 17:16
+ * Created on Ng√†y 04 th√°ng 4 n?m 2016, 17:16
  */
 
 #ifndef UART_H
